@@ -8,10 +8,10 @@
         <version>2.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.cxl.cxlmail</groupId>
-    <artifactId>cxlmail-ware</artifactId>
+    <groupId>com.cxl.cxlmall</groupId>
+    <artifactId>cxlmall-ware</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cxlmail-ware</name>
+    <name>cxlmall-ware</name>
     <description>商城-仓储服务</description>
     <properties>
         <java.version>1.8</java.version>

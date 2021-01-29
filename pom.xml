@@ -10,10 +10,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>cxlmail-coupon</module>
-        <module>cxlmail-member</module>
-        <module>cxlmail-order</module>
-        <module>cxlmail-ware</module>
+        <module>cxlmall-coupon</module>
+        <module>cxlmall-member</module>
+        <module>cxlmall-order</module>
+        <module>cxlmall-ware</module>
         <module>cxlmall-product</module>
     </modules>
 

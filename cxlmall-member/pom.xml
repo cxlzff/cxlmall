@@ -8,11 +8,11 @@
         <version>2.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.cxl.cxlmail</groupId>
-    <artifactId>cxlmail-coupon</artifactId>
+    <groupId>com.cxl.cxlmall</groupId>
+    <artifactId>cxlmail-member</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cxlmail-coupon</name>
-    <description>商城-优惠券服务</description>
+    <name>cxlmall-member</name>
+    <description>商城-会员服务</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.0</spring-cloud.version>
