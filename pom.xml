@@ -15,6 +15,9 @@
         <module>cxlmall-order</module>
         <module>cxlmall-ware</module>
         <module>cxlmall-product</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>cxlmall-common</module>
     </modules>
 
 
