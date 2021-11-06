@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T11:28:05.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="r3G9xz2S8SU2wtc2Hg3H" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T13:18:36.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UqMtBRDiYAZG6a-bpVuX" version="15.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="OiPHyQ5rAF06rbVgizBV-71" value="&lt;span style=&quot;font-size: 16px&quot;&gt;导向种子队列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312" y="779" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OiPHyQ5rAF06rbVgizBV-72" value="&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Coverage seeds queue&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OiPHyQ5rAF06rbVgizBV-72" value="&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;覆盖种子队列&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312" y="819" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OiPHyQ5rAF06rbVgizBV-73" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OiPHyQ5rAF06rbVgizBV-64" target="OiPHyQ5rAF06rbVgizBV-71">
