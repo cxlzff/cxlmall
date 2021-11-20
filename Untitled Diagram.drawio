@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T14:03:35.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Yyd2iZm-5TEQ1cebIhqW" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T14:03:43.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="czFAUUzatcSdgYA2GHD5" version="15.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="80ifv7xTPTXZvHraHOXA-6" value="记录输入的路径分支覆盖度和目标序列覆盖度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="511.25" y="585" width="172.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="80ifv7xTPTXZvHraHOXA-7" value="&lt;span&gt;计算种子目标序列覆盖度和种子对应目标序列的全局最大覆盖度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="1010" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="80ifv7xTPTXZvHraHOXA-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="80ifv7xTPTXZvHraHOXA-8" target="80ifv7xTPTXZvHraHOXA-9">
           <mxGeometry relative="1" as="geometry" />
